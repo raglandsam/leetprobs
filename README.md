@@ -15,6 +15,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
+| [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
