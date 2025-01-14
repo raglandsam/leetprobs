@@ -28,6 +28,7 @@ A catalogue of leetcode problems i've solved .
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -48,5 +49,6 @@ A catalogue of leetcode problems i've solved .
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
