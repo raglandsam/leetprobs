@@ -15,6 +15,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
+| [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
@@ -55,5 +56,18 @@ A catalogue of leetcode problems i've solved .
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
