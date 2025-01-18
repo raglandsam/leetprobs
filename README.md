@@ -17,6 +17,7 @@ A catalogue of leetcode problems i've solved .
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
+| [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 ## Hash Table
@@ -35,6 +36,7 @@ A catalogue of leetcode problems i've solved .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
