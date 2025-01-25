@@ -1,0 +1,7 @@
+class Solution(object):
+    def numJewelsInStones(self, jewels, stones):
+        c=0
+        for i in jewels :
+            if i in stones :
+                c+=stones.count(i)
+        return c
