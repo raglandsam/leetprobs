@@ -1,0 +1,15 @@
+import re
+class Solution(object):
+    def isPalindrome(self, rem):
+        s= re.sub('[\W_]+', '', rem)
+ 
+        for i in s:
+            if i.isalpha():
+                continue
+            else :
+                s.replace(i," ")
+        g=s[::-1]
+        if g.lower()==s.lower():
+            return True
+        else:
+            return False
