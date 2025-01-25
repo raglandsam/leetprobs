@@ -1,0 +1,12 @@
+class Solution(object):
+    def multiply(self, num1, num2):
+        def change(num) :
+            sign=1
+            n=0
+            if num[0]=="-":
+                sign=-1            
+            for s in num:
+                n=n*10+ord(s)-48
+            return n*sign
+
+        return str(change(num1)*change(num2))    
