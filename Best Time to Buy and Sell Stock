@@ -1,0 +1,13 @@
+class Solution(object):
+    def maxProfit(self, p):
+        if not p and len(p)<2:
+            return 0
+        else :
+            minprice=float('inf')
+            maxprofit=0
+            for i in p:
+                if i<minprice:
+                    minprice=i
+                elif i-minprice>maxprofit :
+                    maxprofit=i-minprice
+            return maxprofit    
