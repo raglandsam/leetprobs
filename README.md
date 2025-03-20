@@ -7,10 +7,12 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Recursion
