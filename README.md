@@ -6,6 +6,7 @@ A catalogue of leetcode problems i've solved .
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 ## String
@@ -16,6 +17,7 @@ A catalogue of leetcode problems i've solved .
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
@@ -85,4 +87,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
