@@ -13,12 +13,14 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
@@ -31,6 +33,7 @@ A catalogue of leetcode problems i've solved .
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 ## Union Find
@@ -78,6 +81,7 @@ A catalogue of leetcode problems i've solved .
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 ## Quickselect
