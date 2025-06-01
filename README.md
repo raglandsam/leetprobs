@@ -100,4 +100,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/raglandsam/leetprobs/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
