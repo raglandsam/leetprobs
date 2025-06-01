@@ -55,6 +55,7 @@ A catalogue of leetcode problems i've solved .
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -104,4 +105,5 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raglandsam/leetprobs/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
