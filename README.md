@@ -21,6 +21,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
@@ -69,6 +70,7 @@ A catalogue of leetcode problems i've solved .
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
