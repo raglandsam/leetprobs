@@ -23,6 +23,7 @@ A catalogue of leetcode problems i've solved .
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
@@ -71,6 +72,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
@@ -122,4 +124,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
