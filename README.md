@@ -59,6 +59,7 @@ A catalogue of leetcode problems i've solved .
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raglandsam/leetprobs/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -111,6 +112,7 @@ A catalogue of leetcode problems i've solved .
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/raglandsam/leetprobs/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raglandsam/leetprobs/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
