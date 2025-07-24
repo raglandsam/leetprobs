@@ -30,6 +30,7 @@ A catalogue of leetcode problems i've solved .
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/raglandsam/leetprobs/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +144,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raglandsam/leetprobs/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
