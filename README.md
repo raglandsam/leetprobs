@@ -32,6 +32,7 @@ A catalogue of leetcode problems i've solved .
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
+| [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
@@ -45,6 +46,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
+| [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -56,6 +58,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
+| [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -80,6 +83,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
