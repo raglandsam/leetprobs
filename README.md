@@ -18,6 +18,7 @@ A catalogue of leetcode problems i've solved .
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raglandsam/leetprobs/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A catalogue of leetcode problems i've solved .
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
