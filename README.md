@@ -36,6 +36,7 @@ A catalogue of leetcode problems i've solved .
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -89,6 +90,7 @@ A catalogue of leetcode problems i've solved .
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
