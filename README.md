@@ -15,6 +15,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raglandsam/leetprobs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/raglandsam/leetprobs/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
