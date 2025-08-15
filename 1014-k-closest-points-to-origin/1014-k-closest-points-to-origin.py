@@ -3,7 +3,7 @@ class Solution(object):
         arr=[]
         l=[]
         for i in points:
-            euc=round(((i[0])**2+(i[1])**2)**0.5,3)
+            euc=(i[0]*i[0]+i[1]*i[1])**0.5
             arr.append([euc,i[0],i[1]])
         arr=sorted(arr , key= lambda x:x[0])
         for i in range(k):
