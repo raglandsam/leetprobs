@@ -10,6 +10,8 @@ class Solution(object):
                 if abs((nums[i]+nums[l]+nums[r])-target) < mindiff:
                     s=nums[i]+nums[l]+nums[r]
                     mindiff = abs(s-target)
+                    if s==target :
+                        return s 
                 elif  nums[i]+nums[l]+nums[r] < target :
                     l+=1
                 else :
