@@ -196,4 +196,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/raglandsam/leetprobs/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
