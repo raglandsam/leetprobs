@@ -8,6 +8,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raglandsam/leetprobs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
@@ -27,6 +28,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
@@ -125,6 +127,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
