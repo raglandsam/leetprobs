@@ -199,5 +199,6 @@ A catalogue of leetcode problems i've solved .
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/raglandsam/leetprobs/tree/master/0176-second-highest-salary) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/raglandsam/leetprobs/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
