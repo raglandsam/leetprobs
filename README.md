@@ -72,6 +72,7 @@ A catalogue of leetcode problems i've solved .
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
@@ -90,6 +91,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raglandsam/leetprobs/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
