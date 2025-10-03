@@ -38,6 +38,7 @@ A catalogue of leetcode problems i've solved .
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raglandsam/leetprobs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/raglandsam/leetprobs/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
@@ -62,6 +63,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
@@ -187,6 +189,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raglandsam/leetprobs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
