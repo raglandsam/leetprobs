@@ -48,6 +48,7 @@ A catalogue of leetcode problems i've solved .
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/raglandsam/leetprobs/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
@@ -160,6 +161,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/raglandsam/leetprobs/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
 | ------- |
