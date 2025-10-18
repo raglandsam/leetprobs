@@ -47,6 +47,7 @@ A catalogue of leetcode problems i've solved .
 | [0238-product-of-array-except-self](https://github.com/raglandsam/leetprobs/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0334-increasing-triplet-subsequence) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
@@ -163,6 +164,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/raglandsam/leetprobs/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
