@@ -12,6 +12,7 @@ A catalogue of leetcode problems i've solved .
 | [0151-reverse-words-in-a-string](https://github.com/raglandsam/leetprobs/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raglandsam/leetprobs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raglandsam/leetprobs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -23,6 +24,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/raglandsam/leetprobs/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raglandsam/leetprobs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/raglandsam/leetprobs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raglandsam/leetprobs/tree/master/1302-delete-characters-to-make-fancy-string) |
