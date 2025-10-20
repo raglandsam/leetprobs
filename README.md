@@ -103,6 +103,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raglandsam/leetprobs/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/raglandsam/leetprobs/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
@@ -177,6 +178,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raglandsam/leetprobs/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raglandsam/leetprobs/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/raglandsam/leetprobs/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
