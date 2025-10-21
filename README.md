@@ -84,6 +84,7 @@ A catalogue of leetcode problems i've solved .
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/raglandsam/leetprobs/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
