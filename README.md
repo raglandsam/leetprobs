@@ -92,6 +92,7 @@ A catalogue of leetcode problems i've solved .
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/raglandsam/leetprobs/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/raglandsam/leetprobs/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
