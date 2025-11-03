@@ -63,6 +63,7 @@ A catalogue of leetcode problems i've solved .
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/raglandsam/leetprobs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
@@ -130,6 +131,7 @@ A catalogue of leetcode problems i've solved .
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -140,6 +142,7 @@ A catalogue of leetcode problems i've solved .
 | [0209-minimum-size-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A catalogue of leetcode problems i've solved .
 | [0209-minimum-size-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raglandsam/leetprobs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Design
 |  |
