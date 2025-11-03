@@ -4,14 +4,13 @@ class Solution(object):
         r=0
         zer=0
         maxlen=0
-        while(r<len(nums)):
-            if nums[r]==0:
+        for i in range(len(nums)):
+            if nums[i]==0:
                 zer+=1
-            while zer>k:
+            if zer>k:
                 if nums[l]==0:
                     zer-=1
                 l+=1
-            maxlen=max(maxlen,r-l+1)
-            r+=1
+            maxlen=max(maxlen,i-l+1)
         return maxlen
 
