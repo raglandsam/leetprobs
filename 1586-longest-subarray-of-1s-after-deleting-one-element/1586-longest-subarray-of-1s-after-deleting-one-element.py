@@ -1,6 +1,8 @@
 class Solution(object):
     def longestSubarray(self, nums):
-        if sum(nums)==len(nums) or sum(nums)==len(nums)-1:
+        if 1 not in nums:
+            return 0
+        if 0 not in nums:
             return len(nums)-1
         zer=0
         l=0
