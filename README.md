@@ -68,6 +68,7 @@ A catalogue of leetcode problems i've solved .
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/raglandsam/leetprobs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
@@ -87,6 +88,7 @@ A catalogue of leetcode problems i've solved .
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
