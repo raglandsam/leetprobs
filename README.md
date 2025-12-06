@@ -73,6 +73,7 @@ A catalogue of leetcode problems i've solved .
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/raglandsam/leetprobs/tree/master/1833-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ A catalogue of leetcode problems i've solved .
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Union Find
 |  |
 | ------- |
