@@ -62,6 +62,7 @@ A catalogue of leetcode problems i've solved .
 | [0605-can-place-flowers](https://github.com/raglandsam/leetprobs/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
@@ -203,6 +204,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -281,5 +283,6 @@ A catalogue of leetcode problems i've solved .
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
