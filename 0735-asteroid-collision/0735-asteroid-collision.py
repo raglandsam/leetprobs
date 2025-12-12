@@ -2,17 +2,18 @@ class Solution(object):
     def asteroidCollision(self, asteroids):
         stack=[]
         for i in asteroids :
-            ITSALIVE = True
-            while stack and ((i<0) and (0<stack[-1])):
+            aliveflag= True 
+            while stack and ((i<0) and (stack[-1]>0)):
                 if abs(i) > abs(stack[-1]):
                     stack.pop()
                     continue
-                if abs(i) ==abs(stack[-1]):
+                elif abs(i)==abs(stack[-1]):
                     stack.pop()
-                ITSALIVE= False
+                aliveflag=False
                 break
-            if ITSALIVE:
+            if aliveflag:
                 stack.append(i)
-        return stack
- 
 
+        return stack 
+
+        
