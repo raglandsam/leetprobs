@@ -160,6 +160,7 @@ A catalogue of leetcode problems i've solved .
 | [0209-minimum-size-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/raglandsam/leetprobs/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
@@ -288,4 +289,8 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/raglandsam/leetprobs/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
