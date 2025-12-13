@@ -27,6 +27,7 @@ A catalogue of leetcode problems i've solved .
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raglandsam/leetprobs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/raglandsam/leetprobs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raglandsam/leetprobs/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raglandsam/leetprobs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -130,6 +131,7 @@ A catalogue of leetcode problems i've solved .
 | [0203-remove-linked-list-elements](https://github.com/raglandsam/leetprobs/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -204,6 +206,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
