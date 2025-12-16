@@ -9,6 +9,7 @@ A catalogue of leetcode problems i've solved .
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/raglandsam/leetprobs/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raglandsam/leetprobs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
@@ -42,6 +43,7 @@ A catalogue of leetcode problems i've solved .
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
@@ -118,6 +120,7 @@ A catalogue of leetcode problems i've solved .
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/raglandsam/leetprobs/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/raglandsam/leetprobs/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0300-longest-increasing-subsequence) |
@@ -211,6 +214,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
@@ -297,4 +301,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/raglandsam/leetprobs/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
