@@ -1,12 +1,11 @@
 class Solution(object):
     def findPeakElement(self, nums):
-        l=0
-        r=len(nums)-1
-        while l<r:
-            mid=(l+r)//2
+        left=0
+        right=len(nums)-1
+        while left < right :
+            mid = (left+right)//2
             if nums[mid]<nums[mid+1]:
-                l=mid+1
+                left=mid+1
             else:
-                r= mid 
-        return r
-                
+                right=mid
+        return right
