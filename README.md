@@ -284,6 +284,7 @@ A catalogue of leetcode problems i've solved .
 | [0175-combine-two-tables](https://github.com/raglandsam/leetprobs/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/raglandsam/leetprobs/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/raglandsam/leetprobs/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0584-find-customer-referee](https://github.com/raglandsam/leetprobs/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/raglandsam/leetprobs/tree/master/0620-not-boring-movies) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/raglandsam/leetprobs/tree/master/1245-user-activity-for-the-past-30-days-i) |
 ## Backtracking
