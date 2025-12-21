@@ -235,6 +235,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/raglandsam/leetprobs/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -247,6 +248,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/raglandsam/leetprobs/tree/master/0904-leaf-similar-trees) |
 ## Matrix
 |  |
@@ -314,4 +316,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
