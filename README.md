@@ -103,6 +103,7 @@ A catalogue of leetcode problems i've solved .
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 ## Union Find
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A catalogue of leetcode problems i've solved .
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 ## String Matching
 |  |
 | ------- |
@@ -322,4 +325,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
