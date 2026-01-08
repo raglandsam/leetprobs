@@ -88,6 +88,7 @@ A catalogue of leetcode problems i've solved .
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A catalogue of leetcode problems i've solved .
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A catalogue of leetcode problems i've solved .
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
@@ -219,6 +222,7 @@ A catalogue of leetcode problems i've solved .
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/raglandsam/leetprobs/tree/master/0605-can-place-flowers) |
+| [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Stack
 |  |
 | ------- |
