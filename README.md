@@ -41,6 +41,7 @@ A catalogue of leetcode problems i've solved .
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raglandsam/leetprobs/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/raglandsam/leetprobs/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
@@ -93,6 +94,7 @@ A catalogue of leetcode problems i've solved .
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raglandsam/leetprobs/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raglandsam/leetprobs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
