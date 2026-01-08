@@ -64,6 +64,7 @@ A catalogue of leetcode problems i've solved .
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A catalogue of leetcode problems i've solved .
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
@@ -181,6 +183,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
@@ -190,6 +193,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
@@ -199,6 +203,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
@@ -209,6 +214,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 ## Breadth-First Search
 |  |
@@ -309,6 +315,7 @@ A catalogue of leetcode problems i've solved .
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Enumeration
@@ -337,4 +344,8 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
