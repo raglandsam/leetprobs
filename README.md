@@ -189,6 +189,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
@@ -256,6 +257,7 @@ A catalogue of leetcode problems i've solved .
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/raglandsam/leetprobs/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -269,6 +271,7 @@ A catalogue of leetcode problems i've solved .
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/raglandsam/leetprobs/tree/master/0904-leaf-similar-trees) |
 ## Matrix
 |  |
@@ -292,6 +295,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/raglandsam/leetprobs/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raglandsam/leetprobs/tree/master/1352-product-of-the-last-k-numbers) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
 ## String Matching
@@ -346,6 +350,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -357,5 +362,6 @@ A catalogue of leetcode problems i've solved .
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raglandsam/leetprobs/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
