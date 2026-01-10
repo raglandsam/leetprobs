@@ -87,6 +87,7 @@ A catalogue of leetcode problems i've solved .
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/raglandsam/leetprobs/tree/master/1833-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -336,6 +337,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
