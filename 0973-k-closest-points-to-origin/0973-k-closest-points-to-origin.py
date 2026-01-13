@@ -1,12 +1,12 @@
 class Solution(object):
     def kClosest(self, points, k):
-        arr=[]
-        l=[]
-        for i in points:
-            euc=(i[0]*i[0]+i[1]*i[1])
-            arr.append([euc,[i[0],i[1]]])
-        arr=sorted(arr , key= lambda x:x[0])
-        return [arr[i][1] for i in range(k)]
+        heap=[]
+        for i in range(len(points)):
+            euc=points[i][0]*points[i][0]+points[i][1]*points[i][1]
+            heapq.heappush(heap,(euc,[points[i][0],points[i][1]]))
+        return [heapq.heappop(heap)[1] for _ in range(k)]
+        
+
 
 
 
