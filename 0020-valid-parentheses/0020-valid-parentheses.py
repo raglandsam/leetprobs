@@ -1,23 +1,17 @@
 class Solution(object):
     def isValid(self, s):
-        if len(s)%2!=0 or len(s)==0:
+        d={")":"(","}":"{","]":"["}
+        stac=[]
+        if len(s)==1:
             return False 
-        else :
-            r=[]
-            d={")":"(","}":"{","]":"["}
-            for c in s:
-                if c in d:
-                    if r and r[-1]==d[c]:
-                        r.pop() 
-                    else:
-                        return False 
+        for i in s:
+            if i in d:
+                if stac and stac[-1]==d[i]:
+                    stac.pop()
                 else:
-                    r.append(c)
-        return not r
-
-
-                        
-
-
-
-        
+                    return False 
+            else:
+                stac.append(i)
+                
+        return True if not stac else False 
+            
