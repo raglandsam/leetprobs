@@ -53,6 +53,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/raglandsam/leetprobs/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/raglandsam/leetprobs/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raglandsam/leetprobs/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +128,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raglandsam/leetprobs/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
@@ -255,6 +257,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
