@@ -259,6 +259,7 @@ A catalogue of leetcode problems i've solved .
 | [0020-valid-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
@@ -277,6 +278,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -286,6 +288,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/raglandsam/leetprobs/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
@@ -293,6 +296,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/raglandsam/leetprobs/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raglandsam/leetprobs/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raglandsam/leetprobs/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raglandsam/leetprobs/tree/master/0703-kth-largest-element-in-a-stream) |
