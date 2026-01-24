@@ -78,6 +78,7 @@ A catalogue of leetcode problems i've solved .
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/raglandsam/leetprobs/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/raglandsam/leetprobs/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/0973-k-closest-points-to-origin) |
@@ -260,6 +261,7 @@ A catalogue of leetcode problems i've solved .
 | [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/raglandsam/leetprobs/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -367,6 +369,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/raglandsam/leetprobs/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
 | ------- |
