@@ -9,14 +9,12 @@ class Solution(object):
         if not root:
             return []
         res=[]
-        st=[]
-        curr=root
-        while curr or st:
-            while curr :
-                st.append(curr)
-                curr=curr.left
-            curr=st.pop()
-            res.append(curr.val)
-            curr=curr.right
+        def dfs(node):
+            if not node:
+                return None
+            dfs(node.left)
+            res.append(node.val)
+            dfs(node.right)
+        dfs(root)
         return res
 
