@@ -96,6 +96,7 @@ A catalogue of leetcode problems i've solved .
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/raglandsam/leetprobs/tree/master/1833-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -233,6 +234,7 @@ A catalogue of leetcode problems i've solved .
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
@@ -322,6 +324,7 @@ A catalogue of leetcode problems i've solved .
 | [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raglandsam/leetprobs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Design
 |  |
 | ------- |
