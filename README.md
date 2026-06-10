@@ -103,6 +103,7 @@ A catalogue of leetcode problems i've solved .
 | [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
@@ -126,6 +127,7 @@ A catalogue of leetcode problems i've solved .
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/raglandsam/leetprobs/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raglandsam/leetprobs/tree/master/2336-smallest-number-in-infinite-set) |
+| [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 ## Union Find
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -381,6 +384,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Interactive
