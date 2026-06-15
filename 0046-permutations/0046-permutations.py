@@ -4,7 +4,7 @@ class Solution(object):
         if  n==1:
             return [nums]
         result=[]
-        def backtrack(vals,path):
+        def backtrack(path):
             if len(path)==n:
                 result.append(path[:])
                 return
@@ -12,9 +12,9 @@ class Solution(object):
                 if i in path:
                     continue
                 path.append(i)
-                backtrack(i,path)
+                backtrack(path)
                 path.pop()
-        backtrack(nums,[])
+        backtrack([])
         return result
 
 
