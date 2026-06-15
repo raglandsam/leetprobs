@@ -1,27 +1,26 @@
 class Solution(object):
     def permuteUnique(self, nums):
         n=len(nums)
+        result=[]
         if n==1:
             return [nums]
-        result=[]
-        nums.sort()
-        used=[False]*n
+        count={n:0 for n in nums}
+        for i in nums:
+            if i in count:
+                count[i]+=1
         def backtrack(path):
             if len(path)==n:
                 result.append(path[:])
-                return
-            
-            for i in range(n):
-                if used[i]:
-                    continue
-                if i > 0 and nums[i]==nums[i-1] and not used[i-1]:
-                   continue
-                used[i]=True
-                path.append(nums[i])
-                backtrack(path)
-                used[i]=False
-                path.pop()                
+                return 
+            for i in count:
+                if count[i]>0:
+                    path.append(i)
+                    count[i]-=1
+                    backtrack(path)
+                    path.pop()
+                    count[i]+=1
         backtrack([])
         return result
+
 
         
