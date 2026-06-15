@@ -5,7 +5,7 @@ class Solution(object):
             return [nums]
         result=[]
         def backtrack(vals,path):
-            if len(path)==n:
+            if len(path)==n and path not in result:
                 result.append(path[:])
                 return
             for i in nums:
