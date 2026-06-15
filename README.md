@@ -53,6 +53,7 @@ A catalogue of leetcode problems i've solved .
 | [0035-search-insert-position](https://github.com/raglandsam/leetprobs/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/raglandsam/leetprobs/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0015-3sum](https://github.com/raglandsam/leetprobs/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
@@ -374,6 +376,7 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0046-permutations](https://github.com/raglandsam/leetprobs/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/raglandsam/leetprobs/tree/master/0257-binary-tree-paths) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
