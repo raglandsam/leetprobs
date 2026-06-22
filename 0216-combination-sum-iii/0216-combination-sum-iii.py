@@ -7,7 +7,7 @@ class Solution(object):
         def find_comb(index,path,sum):
             #BP1, func parameters change
             if sum>n or len(path)>k:
-                    return
+                return
             if sum==n and len(path)==k:
                 result.append(path[:])
                 return
