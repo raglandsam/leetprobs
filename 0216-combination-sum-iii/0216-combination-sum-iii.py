@@ -12,10 +12,8 @@ class Solution(object):
                 result.append(path[:])
                 return
             for i in range(index,l):
-        
                 path.append(arr[i])
                 sum+=arr[i]
-                
                 find_comb(i+1,path,sum)
                 sum-=path.pop()
         find_comb(0,[],sum)
