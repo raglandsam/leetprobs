@@ -66,6 +66,7 @@ A catalogue of leetcode problems i've solved .
 | [0198-house-robber](https://github.com/raglandsam/leetprobs/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/raglandsam/leetprobs/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/raglandsam/leetprobs/tree/master/0228-summary-ranges) |
@@ -383,6 +384,7 @@ A catalogue of leetcode problems i've solved .
 | [0046-permutations](https://github.com/raglandsam/leetprobs/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/raglandsam/leetprobs/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/raglandsam/leetprobs/tree/master/0257-binary-tree-paths) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Counting
