@@ -10,6 +10,8 @@ class Solution(object):
                 results.append(path[:])
             #bp1:try n-1
             for i in range(index,n):
+                if i> index and nums[i]==nums[index]:
+                    continue
                 path.append(nums[i])
                 backtrack(i+1,path)
                 path.pop()
