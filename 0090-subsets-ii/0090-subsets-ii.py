@@ -6,11 +6,10 @@ class Solution(object):
         if n==1:
             return [[],nums]
         def backtrack(index,path):
-            if path not in results:
-                results.append(path[:])
+            results.append(path[:])
             #bp1:try n-1
             for i in range(index,n):
-                if i> index and nums[i]==nums[index]:
+                if i> index and nums[i]==nums[i-1]:
                     continue
                 path.append(nums[i])
                 backtrack(i+1,path)
