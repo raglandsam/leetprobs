@@ -39,6 +39,7 @@ A catalogue of leetcode problems i've solved .
 | [0451-sort-characters-by-frequency](https://github.com/raglandsam/leetprobs/tree/master/0451-sort-characters-by-frequency) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/raglandsam/leetprobs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raglandsam/leetprobs/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/raglandsam/leetprobs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raglandsam/leetprobs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/raglandsam/leetprobs/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -131,6 +132,7 @@ A catalogue of leetcode problems i've solved .
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/raglandsam/leetprobs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -354,6 +356,7 @@ A catalogue of leetcode problems i've solved .
 | [0643-maximum-average-subarray-i](https://github.com/raglandsam/leetprobs/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/raglandsam/leetprobs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/raglandsam/leetprobs/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
