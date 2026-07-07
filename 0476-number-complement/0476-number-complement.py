@@ -10,9 +10,8 @@ class Solution(object):
         res=0
         for i in range(len(r)):
             if r[i]=='0':
-                res+=1*(2**i)
-            
-        return int(res)
+                res+=(2**i)            
+        return res
 
 
         
