@@ -1,5 +1,7 @@
 class Solution(object):
     def findComplement(self, num):
+        if num==0:
+            return 1
         n=num
         r=''
         while n>0:
