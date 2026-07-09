@@ -3,7 +3,7 @@ class Solution(object):
         sign = 1
         if x<0:
             sign =-1
-        x=abs(x)
+        x*=sign
         n=0
         while x > 0:
             n=n*10+x%10
