@@ -149,6 +149,7 @@ A catalogue of leetcode problems i've solved .
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/raglandsam/leetprobs/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raglandsam/leetprobs/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/raglandsam/leetprobs/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
