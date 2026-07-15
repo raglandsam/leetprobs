@@ -60,6 +60,7 @@ A catalogue of leetcode problems i've solved .
 | [0046-permutations](https://github.com/raglandsam/leetprobs/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/raglandsam/leetprobs/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raglandsam/leetprobs/tree/master/0090-subsets-ii) |
@@ -253,6 +254,7 @@ A catalogue of leetcode problems i've solved .
 | [0016-3sum-closest](https://github.com/raglandsam/leetprobs/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/raglandsam/leetprobs/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
