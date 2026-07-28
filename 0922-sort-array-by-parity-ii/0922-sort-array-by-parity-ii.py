@@ -1,12 +1,14 @@
 class Solution(object):
     def sortArrayByParityII(self, nums):
-        l=len(nums)
-       
-        e=[n for n in nums if n%2==0]
-        o=[n for n in nums if n%2!=0]
-        nums=[]
-        for i in range(l/2):
-            nums.append(e[i])
-            nums.append(o[i])
-
+        e=0
+        o=1
+        while e<len(nums) and o<len(nums):
+            if nums[e]%2==0:
+                e+=2
+            elif nums[o]%2!=0:
+                o+=2
+            else:
+                nums[e],nums[o]=nums[o],nums[e]
+                e+=2
+                o+=2
         return nums
