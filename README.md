@@ -104,6 +104,7 @@ A catalogue of leetcode problems i've solved .
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1046-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/raglandsam/leetprobs/tree/master/1127-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
 | [1352-product-of-the-last-k-numbers](https://github.com/raglandsam/leetprobs/tree/master/1352-product-of-the-last-k-numbers) |
@@ -137,6 +138,7 @@ A catalogue of leetcode problems i've solved .
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/raglandsam/leetprobs/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raglandsam/leetprobs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
@@ -266,6 +268,7 @@ A catalogue of leetcode problems i've solved .
 | [0973-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -479,4 +482,8 @@ A catalogue of leetcode problems i've solved .
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raglandsam/leetprobs/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/raglandsam/leetprobs/tree/master/0476-number-complement) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
