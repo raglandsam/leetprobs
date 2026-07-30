@@ -65,6 +65,7 @@ A catalogue of leetcode problems i've solved .
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/raglandsam/leetprobs/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/raglandsam/leetprobs/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/raglandsam/leetprobs/tree/master/0152-maximum-product-subarray) |
@@ -176,6 +177,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0022-generate-parentheses](https://github.com/raglandsam/leetprobs/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/raglandsam/leetprobs/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/raglandsam/leetprobs/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/raglandsam/leetprobs/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/raglandsam/leetprobs/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0300-longest-increasing-subsequence) |
