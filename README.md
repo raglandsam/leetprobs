@@ -114,6 +114,7 @@ A catalogue of leetcode problems i've solved .
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/raglandsam/leetprobs/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/raglandsam/leetprobs/tree/master/1603-running-sum-of-1d-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/raglandsam/leetprobs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/raglandsam/leetprobs/tree/master/1833-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
@@ -143,6 +144,7 @@ A catalogue of leetcode problems i've solved .
 | [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raglandsam/leetprobs/tree/master/1207-unique-number-of-occurrences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raglandsam/leetprobs/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/raglandsam/leetprobs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -272,6 +274,7 @@ A catalogue of leetcode problems i've solved .
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/raglandsam/leetprobs/tree/master/1019-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/raglandsam/leetprobs/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/raglandsam/leetprobs/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raglandsam/leetprobs/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
