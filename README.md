@@ -87,6 +87,7 @@ A catalogue of leetcode problems i've solved .
 | [0334-increasing-triplet-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/raglandsam/leetprobs/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0485-max-consecutive-ones](https://github.com/raglandsam/leetprobs/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
