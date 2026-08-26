@@ -180,6 +180,7 @@ A catalogue of leetcode problems i've solved .
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2427-number-of-common-factors](https://github.com/raglandsam/leetprobs/tree/master/2427-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raglandsam/leetprobs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/raglandsam/leetprobs/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2427-number-of-common-factors](https://github.com/raglandsam/leetprobs/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/raglandsam/leetprobs/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
