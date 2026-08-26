@@ -64,6 +64,7 @@ A catalogue of leetcode problems i've solved .
 | [0046-permutations](https://github.com/raglandsam/leetprobs/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/raglandsam/leetprobs/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/raglandsam/leetprobs/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raglandsam/leetprobs/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/raglandsam/leetprobs/tree/master/0078-subsets) |
@@ -371,6 +372,7 @@ A catalogue of leetcode problems i've solved .
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raglandsam/leetprobs/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/raglandsam/leetprobs/tree/master/0074-search-a-2d-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 ## Number Theory
@@ -448,6 +450,7 @@ A catalogue of leetcode problems i've solved .
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raglandsam/leetprobs/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/raglandsam/leetprobs/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
