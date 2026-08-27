@@ -1,11 +1,12 @@
 class Solution(object):
-    def dailyTemperatures(self,T):
-        n=len(T)
-        o=[0]*n
+    def dailyTemperatures(self, temperatures):
         st=[]
-        for i in range(n):
-            while st and T[i] > T[st[-1]]:
-                end=st.pop()
-                o[end]=i-end
-            st.append(i)    
-        return o
+        ans=[0]*len(temperatures)
+        for i in range(len(temperatures)):
+            while st and temperatures[st[-1]] < temperatures[i]:
+                f=st.pop()
+                ans[f]=i-f
+            st.append(i)
+        return ans
+            
+        
