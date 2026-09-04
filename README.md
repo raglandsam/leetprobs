@@ -36,6 +36,7 @@ A catalogue of leetcode problems i've solved .
 | [0049-group-anagrams](https://github.com/raglandsam/leetprobs/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/raglandsam/leetprobs/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/raglandsam/leetprobs/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/raglandsam/leetprobs/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/raglandsam/leetprobs/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raglandsam/leetprobs/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
@@ -140,6 +141,7 @@ A catalogue of leetcode problems i've solved .
 | [0128-longest-consecutive-sequence](https://github.com/raglandsam/leetprobs/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/raglandsam/leetprobs/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raglandsam/leetprobs/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/raglandsam/leetprobs/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/raglandsam/leetprobs/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
