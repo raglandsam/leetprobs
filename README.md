@@ -22,6 +22,7 @@ A catalogue of leetcode problems i've solved .
 | [1768-merge-strings-alternately](https://github.com/raglandsam/leetprobs/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/raglandsam/leetprobs/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/raglandsam/leetprobs/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
@@ -322,6 +323,7 @@ A catalogue of leetcode problems i've solved .
 | [0735-asteroid-collision](https://github.com/raglandsam/leetprobs/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/raglandsam/leetprobs/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/raglandsam/leetprobs/tree/master/0853-car-fleet) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/raglandsam/leetprobs/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
@@ -332,6 +334,7 @@ A catalogue of leetcode problems i've solved .
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
