@@ -93,6 +93,7 @@ A catalogue of leetcode problems i've solved .
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/raglandsam/leetprobs/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0485-max-consecutive-ones](https://github.com/raglandsam/leetprobs/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raglandsam/leetprobs/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raglandsam/leetprobs/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ A catalogue of leetcode problems i've solved .
 | [0150-evaluate-reverse-polish-notation](https://github.com/raglandsam/leetprobs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/raglandsam/leetprobs/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/raglandsam/leetprobs/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
@@ -196,6 +198,7 @@ A catalogue of leetcode problems i've solved .
 | [0322-coin-change](https://github.com/raglandsam/leetprobs/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raglandsam/leetprobs/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -208,6 +211,7 @@ A catalogue of leetcode problems i've solved .
 | [0206-reverse-linked-list](https://github.com/raglandsam/leetprobs/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/raglandsam/leetprobs/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/raglandsam/leetprobs/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -508,4 +512,16 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/raglandsam/leetprobs/tree/master/1122-relative-sort-array) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
