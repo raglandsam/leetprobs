@@ -106,6 +106,7 @@ A catalogue of leetcode problems i've solved .
 | [0792-binary-search](https://github.com/raglandsam/leetprobs/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/raglandsam/leetprobs/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/raglandsam/leetprobs/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raglandsam/leetprobs/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/raglandsam/leetprobs/tree/master/0922-sort-array-by-parity-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/raglandsam/leetprobs/tree/master/1004-max-consecutive-ones-iii) |
@@ -200,6 +201,7 @@ A catalogue of leetcode problems i've solved .
 | [0392-is-subsequence](https://github.com/raglandsam/leetprobs/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
 | [0747-min-cost-climbing-stairs](https://github.com/raglandsam/leetprobs/tree/master/0747-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raglandsam/leetprobs/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/raglandsam/leetprobs/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raglandsam/leetprobs/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
@@ -268,6 +270,7 @@ A catalogue of leetcode problems i've solved .
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/raglandsam/leetprobs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/raglandsam/leetprobs/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/raglandsam/leetprobs/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/raglandsam/leetprobs/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
@@ -524,4 +527,12 @@ A catalogue of leetcode problems i've solved .
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/raglandsam/leetprobs/tree/master/0486-predict-the-winner) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/raglandsam/leetprobs/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/raglandsam/leetprobs/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
