@@ -1,11 +1,12 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
+class Solution:
+    def topKFrequent(self, nums: list[int], k: int) -> list[int]:
+        if len(nums)<=1:
+            return nums
         d={}
-        for i in nums:
-            if i in d:
-                d[i]+=1
+        for num in nums:
+            if num in d:
+                d[num]+=1
             else:
-                d[i]=1
-        tup=sorted(d.items(),key=lambda item:item[1],reverse=True)
-        return [tup[i][0] for i in range(k)]
-        
+                d[num]=1
+        tup=sorted(d.items(),key=lambda item:-item[1])
+        return [item[0] for item in tup[:k]]
