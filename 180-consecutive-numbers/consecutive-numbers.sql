@@ -1,0 +1,2 @@
+with stats as (select (case when lead(num,2) over (order by id asc) = num and lead(num,1) over(order by id asc) = num then num end) as ConsecutiveNums from logs)
+select distinct ConsecutiveNums from stats where ConsecutiveNums is not null;
