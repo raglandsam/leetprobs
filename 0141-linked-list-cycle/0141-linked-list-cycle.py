@@ -11,14 +11,10 @@ class Solution(object):
         :rtype: bool
         """
         slow= head
-        if slow is None or slow.next is None:
-            return False
-        fast=head.next.next
-        while slow and fast:
-            if slow is fast:
-                return True
-            elif not slow.next or not fast.next:
-                return False
+        fast=head
+        while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        
+            if slow is fast:
+                return True
+        return False
