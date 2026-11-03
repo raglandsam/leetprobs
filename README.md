@@ -138,6 +138,7 @@ A catalogue of leetcode problems i've solved .
 | [2352-equal-row-and-column-pairs](https://github.com/raglandsam/leetprobs/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/raglandsam/leetprobs/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/raglandsam/leetprobs/tree/master/2542-maximum-subsequence-score) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raglandsam/leetprobs/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A catalogue of leetcode problems i've solved .
 | [2427-number-of-common-factors](https://github.com/raglandsam/leetprobs/tree/master/2427-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/raglandsam/leetprobs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/raglandsam/leetprobs/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raglandsam/leetprobs/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
